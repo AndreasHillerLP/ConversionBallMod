@@ -1,0 +1,23 @@
+itemGroup.TabConversionBall=Conversion Ball Mod
+
+tile.BlockBloodDiamondOre.name=Blood Diamond Ore
+tile.BlockBloodDiamondSolid.name=Blood Diamond Block
+tile.BlockBloodDiamondStairs.name=Blood Diamond Stairs
+tile.BlockBloodDiamondHalfSlab.name=Blood Diamond Half Slab
+tile.BlockBloodDiamondDoubleSlab.name=Blood Diamond Double Slab
+tile.BlockRedCoal.name=Red Coal Ore
+tile.BlockXPStone.name=XP Stone (you get XP and cobblestone)
+
+item.ItemBloodDiamond.name=Blood Diamond
+item.ItemConversionBall.name=Conversion Ball
+item.ItemConversionWand.name=Conversion Wand
+item.ItemBloodDiamondAxe.name=Blood Diamond Axe
+item.ItemBloodDiamondPickAxe.name=Blood Diamond Pick Axe
+item.ItemBloodDiamondSpade.name=Blood Diamond Spade
+item.ItemBloodDiamondHoe.name=Blood Diamond Hoe
+item.ItemBloodDiamondSword.name=Blood Diamond Sword
+item.ItemBloodDiamondHelmet.name=Blood Diamond Helmet
+item.ItemBloodDiamondChestplate.name=Blood Diamond Chestplate
+item.ItemBloodDiamondLeggings.name=Blood Diamond Leggings
+item.ItemBloodDiamondBoots.name=Blood Diamond Boots
+item.ItemRedCoal.name=Red Coal

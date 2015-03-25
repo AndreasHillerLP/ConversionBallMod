@@ -1,0 +1,23 @@
+itemGroup.TabConversionBall=Conversion Ball Mod
+
+tile.BlockBloodDiamondOre.name=Blut Diamand Erz
+tile.BlockBloodDiamondSolid.name=Blut Diamand Block
+tile.BlockBloodDiamondStairs.name=Blut Diamand Treppe
+tile.BlockBloodDiamondHalfSlab.name=Blut Diamand Stufe
+tile.BlockBloodDiamondDoubleSlab.name=Blut Diamand Doppelstufe
+tile.BlockRedCoal.name=Rote Kohle Erz
+tile.BlockXPStone.name=XP Stein (Du bekommst XP und Pflasterstein)
+
+item.ItemBloodDiamond.name=Blut Diamand
+item.ItemConversionBall.name=Konvertierungsball
+item.ItemConversionWand.name=Konvertierungszauberstab
+item.ItemBloodDiamondAxe.name=Blut Diamand Axt
+item.ItemBloodDiamondPickAxe.name=Blut Diamand Spitzhacke
+item.ItemBloodDiamondSpade.name=Blut Diamand Schaufel
+item.ItemBloodDiamondHoe.name=Blut Diamand Sense
+item.ItemBloodDiamondSword.name=Blut Diamand Schwert
+item.ItemBloodDiamondHelmet.name=Blut Diamand Helm
+item.ItemBloodDiamondChestplate.name=Blut Diamand Panzer
+item.ItemBloodDiamondLeggings.name=Blut Diamand Hose
+item.ItemBloodDiamondBoots.name=Blut Diamand Schuhe
+item.ItemRedCoal.name=Rote Kohle
