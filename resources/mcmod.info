@@ -1,11 +1,11 @@
 [
 {
-  "modid": "conversionball",
-  "name": "§6ConversionBall Mod",
+  "modid": "conversionmod",
+  "name": "§6Conversion Mod",
   "description": "This mod gives you the possibility to convert items or blocks in another item or block with the Conversion Ball and you can change blocks in the world with the Conversion Wand",
-  "version": "1.0.0",
+  "version": "1.0.11",
   "mcversion": "1.7.10",
-  "url": "http://minecraft.andreashiller.net?page_id=152",
+  "url": "http://minecraft.curseforge.com/mc-mods/222827-conversion-mod",
   "updateUrl": "",
   "authorList": ["Andreas Hiller"],
   "credits": "Copyright © 2015 AndreasHiller.Net",
